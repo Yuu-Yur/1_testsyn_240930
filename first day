@@ -1,0 +1,15 @@
+깃헙 업로드
+git add .
+.? 리눅스 언어로 현재 위치를 뜻 함
+잊지않기
+
+
+아이디,유저이름 identify
+  git config --global user.email "gkcjdqls@gmail.com"
+  git config --global user.name "Yuu-Yur"
+
+cmd 경로 귀찮으면 탐색기에서 해당 위치 주소창에 cmd입력하면 그 위치에서 cmd 열 수 있음
+
+처음 -> 레포 작성
+처음 받을 때 레포로 카피
+다음부터 소스제어에서 풀/푸시
